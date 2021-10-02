@@ -7,3 +7,5 @@
 ## Tutorial
 
 - [`helloworld`](helloworld) get to know how to print text.
+- [`def`](def) def function ruby
+- [`classes`](classes) oop in ruby
