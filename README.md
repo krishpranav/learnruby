@@ -13,3 +13,4 @@
 - [`loops`](loops) for loops in ruby.
 - [`def`](def) def function ruby.
 - [`classes`](classes) oop in ruby.
+- [`modules`](modules) modules in ruby.
