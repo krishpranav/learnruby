@@ -9,6 +9,8 @@
 - [`helloworld`](helloworld) get to know how to print text.
 - [`comments`](comments) commenting code in ruby.
 - [`methods`](methods) methods.
+- [`strings`](strings) strings in ruby.
+- [`array`](array) array in ruby.
 - [`ifelse`](ifelse) if else.
 - [`loops`](loops) for loops in ruby.
 - [`def`](def) def function ruby.
