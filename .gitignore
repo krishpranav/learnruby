@@ -1,0 +1,11 @@
+# system cache
+.DS_Store
+
+# vscode cache
+.vscode/
+
+# idea cache
+.idea/
+
+# gemfile lock 
+Gemfile.lock
