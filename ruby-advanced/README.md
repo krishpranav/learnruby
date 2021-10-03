@@ -6,5 +6,6 @@
 
 ## Tutorial
 
-- [`oop`](oop) oop in ruby
-- [`database-access`](database-access) database-access in ruby
+- [`oop`](oop) oop in ruby.
+- [`database-access`](database-access) database-access in ruby.
+- [`web`](web) web programming in ruby.
