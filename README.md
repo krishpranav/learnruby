@@ -20,4 +20,5 @@
 - [`def`](def) def function ruby.
 - [`classes`](classes) oop in ruby.
 - [`modules`](modules) modules in ruby.
+- [`exceptions`](exceptions) exceptions in ruby.
 - [`hash`](hash) key values in ruby.
