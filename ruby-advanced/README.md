@@ -7,6 +7,7 @@
 ## Tutorial
 
 - [`oop`](oop) oop in ruby.
+- [`socket`](socket) socket programming in ruby.
 - [`database-access`](database-access) database-access in ruby.
 - [`web`](web) web programming in ruby.
 - [`emailsending`](emailsending) emailsending in ruby.
