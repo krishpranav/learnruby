@@ -10,7 +10,9 @@
 - [`comments`](comments) commenting code in ruby.
 - [`methods`](methods) methods.
 - [`strings`](strings) strings in ruby.
+- [`ranges`](ranges) ranges in ruby.
 - [`array`](array) array in ruby.
+- [`datetime`](datetime) date & time finding in ruby.
 - [`ifelse`](ifelse) if else.
 - [`loops`](loops) for loops in ruby.
 - [`def`](def) def function ruby.
