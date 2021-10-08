@@ -6,6 +6,7 @@
 
 ## Tutorial
 
+- [`blocks`](blocks) learn to use yield state ments 
 - [`oop`](oop) oop in ruby.
 - [`socket`](socket) socket programming in ruby.
 - [`database-access`](database-access) database-access in ruby.
